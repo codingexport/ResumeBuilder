@@ -1,7 +1,7 @@
 
 # ResumeBuilder
 
-This is a solution to the [Social links profile challenge on instagram](https://www.instagram.com/coding_export81/).
+This is a ResumeBuilder Project to Created By Author [Social links profile on  instagram](https://www.instagram.com/coding_export81/).
 
 ## Table of contents
 
@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![logo](https://github.com/codingexport/ResumeBuilder/blob/main/Untitled%20-%20Google%20Chrome%2013-11-2024%2000_32_29.png)
+![logo](https://github.com/codingexport/ResumeBuilder/blob/main/Home%20Page%20-%20Google%20Chrome%202024-11-14%2022-57-20%20-%20Trim.gif)
 
 ### Links
 
